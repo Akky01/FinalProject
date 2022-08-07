@@ -1,0 +1,48 @@
+
+.component-show-booking{
+    
+}
+
+#btn{
+    background-color: #dddddd;
+    padding-left: 22px;
+    padding-top: 5px;
+    padding-right: 22px;
+    padding-bottom: 5px;
+    font-size: 0.9em;
+    font-family: sans-serif;
+}
+
+#btn:hover{
+    background-color: #650098;
+    color:white;
+}
+
+.from{
+    width: 50%;
+    display: inline-block;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: left;
+    height: 5px;
+    padding: 10px 10px;
+}
+.container {    
+        background-color: white;  
+    }   
+
+div.form
+{
+    width: 500px;
+    height: 5px;
+    display: block;
+    text-align: center;
+    padding: 10px 10px;
+}
+
+.center {
+    display:flex;
+    justify-content: center;
+    height: 5px;
+    padding: 10px 10px;
+  }
